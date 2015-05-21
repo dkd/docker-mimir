@@ -1,2 +1,2 @@
 build:
-	 docker build -t "ksjog/mimir" .
+	 docker build -t "ksjogo/mimir" .
